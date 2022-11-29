@@ -16,3 +16,5 @@ Plotsdata/QXX.csv                                     - Data snippets used for e
 .R files                                              - R code used to generate plots and data snippets
 
 R_installedpackages.txt                               - R packages installed in the system and their version
+CC-By-4.0                                             - CC-By-4.0 licensing
+LICENSE.txt                                           - GNU General public license text
